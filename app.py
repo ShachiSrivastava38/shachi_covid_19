@@ -1,4 +1,4 @@
-"""Professional Streamlit app for COVID-19 vaccine prediction."""
+"""Professional Streamlit app for COVID-19 vaccine prediction. """
 
 from __future__ import annotations
 
