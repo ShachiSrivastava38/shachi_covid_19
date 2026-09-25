@@ -16,13 +16,13 @@ import streamlit as st
 # Application configuration
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="COVID-19 Vaccine Prediction",
+    page_title="COVID-19 Vaccine Prediction Created By Shachi Srivastava",
     page_icon="💉",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
-APP_TITLE = "COVID-19 Vaccine Prediction"
+APP_TITLE = "COVID-19 Vaccine Prediction Created By Shachi Srivastava"
 APP_DESCRIPTION = (
     "Enter the information below to estimate the model's predicted outcome."
 )
