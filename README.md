@@ -97,6 +97,6 @@ medical advice.
 
 ## 👨‍💻 Author
 
-**Reem Raja**
+**Shachi Srivastava**
 
 Data Science & Machine Learning Student
